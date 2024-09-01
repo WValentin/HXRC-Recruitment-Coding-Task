@@ -1,0 +1,4 @@
+repository "HXRC Recruitment Coding task@yuti@cloud"
+  path "/"
+    br "/main"
+    co "/main"
